@@ -10,6 +10,7 @@
         "classmap": ["src/"]
     },
     "require": {
-        "psr/log": "^1.0"
+        "psr/log": "^1.0",
+        "phpunit/php-code-coverage": "^4.0"
     }
 }
